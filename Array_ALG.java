@@ -1,5 +1,12 @@
 // a few simple algorithms
 
+// Part I (5):
+// reverse
+// remove duplicates
+// sum to target
+// count ferquency
+// anagram
+
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
