@@ -2,7 +2,7 @@
 
 ## Problems
 
-###  Part I:
+### Part I:
 
 1. reverse list elements
 
@@ -13,3 +13,7 @@
 4. Problem 4: given a char[] l, count the frequency of each element in l using hashMap
 
 5. Problem 5: given two strings s1 and s2, check if s2 is the anagram of s2
+
+### Part II:
+
+1. the length of the longest substring of a string 
